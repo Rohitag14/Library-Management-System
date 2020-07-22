@@ -37,4 +37,4 @@ In this whole preoject I am referring *user* as *librarian*.
 
 To get detail explanation about project download the document file. It includes snapshots with explanation.
 
-For the admin login you have to enter username as "admin123" and password as "admin".
+For the admin login you have to enter username as **admin123** and password as **admin**.
